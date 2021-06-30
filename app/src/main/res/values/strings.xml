@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SampleGallery</string>
+    <string name="title_home_activity">Home</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="view_image">View Image</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_try">TryActivity</string>
+    <string name="search">Search</string>
+    <string name="two_col">2 Col</string>
+    <string name="three_col">3 col</string>
+    <string name="four_col">4 col</string>
+    <string name="no_result_found">No result found</string>
+    <string name="something_went_wrong">Something went wrong</string>
+</resources>
