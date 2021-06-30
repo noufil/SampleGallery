@@ -1,3 +1,3 @@
 # SampleGallery
 
-Use search fromt the action bar to see images
+Use search from the action bar to see images
